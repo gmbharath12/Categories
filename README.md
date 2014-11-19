@@ -1,4 +1,4 @@
 Categories
 ==========
 
-Categories NSString 
+Added categories NSString.
